@@ -25,6 +25,10 @@ Empty.
 
 Empty with space.
 
+###     Initial spaces
+
+### Final spaces   
+
 ## duplicate
 
 ## duplicate
