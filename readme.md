@@ -17,6 +17,10 @@ in heading on npm and GitHub.
 
 ## 😄_😄 unicode emoji
 
+## 😄 - an emoji
+
+## :smile: - a gemoji
+
 ##
 
 Empty.
