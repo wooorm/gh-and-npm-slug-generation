@@ -38,3 +38,5 @@ Empty with space.
 ## duplicate
 
 Related: [emoji-slug-example](https://github.com/chrisdickinson/emoji-slug-example).
+
+## Привет non-latin 你好
